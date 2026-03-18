@@ -4,8 +4,7 @@ Created on Wed Mar 18 10:10:07 2026, @author: lydia.lim
 
 ___________OVERVIEW:____________
     
-Download MRI DICOM studies from PACS using a CSV list of accession numbers.
-
+Download MRI DICOM studies from PACS using a CSV list of accession numbers. (SEE README.md FOR FURTHER INFO)
 Inputs:
 - CSV file containing accession numbers
 - PACS AE title, IP and port
